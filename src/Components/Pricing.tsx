@@ -81,12 +81,16 @@ const PricingSection = () => {
             </div>
             <span className="text-gray-600 font-bold ml-3">Yearly</span>
           </div>
-          <div className="absolute right-1/2 transform translate-x-24 -bottom-20">
-            <img src={Arrow} alt="Arrow" className="w-24 h-auto" />
-            <button className="bg-purple-100 absolute px-2 py-2 rounded-full text-sm font-medium -bottom-1">
-              Save 65%
-            </button>
+          <div className="flex items-center gap-3">
+          <span className="ml-2 text-xs bg-purple-100  px-3 py-2 rounded-full">
+            Save 65%
+          </span>
+          <div className="flex-shrink-0">
+            <img src={Arrow} width={80} height={40} alt="arrow" />
           </div>
+        </div>
+      </div>
+
         </div>
 
         <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto pt-20">
@@ -105,7 +109,8 @@ const PricingSection = () => {
           ))}
         </div>
       </div>
-    </div>
+   
+  
   );
 };
 
