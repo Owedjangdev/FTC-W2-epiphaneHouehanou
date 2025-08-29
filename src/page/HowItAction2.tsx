@@ -26,7 +26,7 @@ const HowItWorks = () => {
             <p className="mt-4 text-base text-gray-400 max-w-lg mb-20">
               In just a few easy steps, you are all set to manage your business finances. Manage all expenses with Spend.In all in one place.
             </p>
- <div className='bg-[#1A202C] px-4 py-6 w-[528px] h-[288px]'>
+ <div className='bg-[#1A202C] px-4 py-6  h-[288px]'>
             <ul className="mt-8    relative   before:absolute before:left-6 before:top-0 before:h-full before:w-0.5 before:bg-blue-500">
               {/* Étape 1 */}
               <li className="flex items-center mb-6 last:mb-0">
