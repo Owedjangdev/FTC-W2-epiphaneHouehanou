@@ -2,7 +2,7 @@ import invoiceIcon from "../assets/Image/icon1.png";
 import historyIcon from "../assets/Image/icon2.png";
 import cardsIcon from "../assets/Image/icon3.png";
 import mainImage from "../assets/Image/mainI.png";
-import Benefits2 from "../Components/Benefits2card";
+import Benefits2 from "../Components/ui/Benefits2card";
 
 const Benefits = () => {
   const data = [

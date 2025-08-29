@@ -3,7 +3,7 @@ import cercle from "../assets/Image/cercle.png";
 import lovely from "../assets/Image/lovely.png";
 import crown from "../assets/Image/crown.png";
 import share from "../assets/Image/share.png";
-import PricingCard from "../Components/PricingCard";
+import PricingCard from "../Components/ui/PricingCard";
 
 const PricingSection = () => {
   const plans = [

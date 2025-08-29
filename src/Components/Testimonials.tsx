@@ -3,7 +3,7 @@ import imgl5 from "../assets/Image/image5.png";
 import imgl6 from "../assets/Image/image6.png";
 import imgB1 from "../assets/Image/ButtonPrev.png";
 import imgB2 from "../assets/Image/ButtonNext.png";
-import TestimonialCard from "../Components/TestimonialCard";
+import TestimonialCard from "../Components/ui/TestimonialCard";
 
 const testimonials = [
   {

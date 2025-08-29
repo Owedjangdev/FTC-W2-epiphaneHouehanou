@@ -1,8 +1,8 @@
 import step1Image from '../assets/Image/How1.png';
 import step2Image from '../assets/Image/How2.png';
 import step3Image from '../assets/Image/How3.png';
-import ButtonAction from "../Components/Button";
-import StepCard from "../Components/StepCard"; 
+import ButtonAction from "../Components/ui/Button";
+import StepCard from "../Components/ui/StepCard"; 
 
 const HowItWorks = () => {
   return (

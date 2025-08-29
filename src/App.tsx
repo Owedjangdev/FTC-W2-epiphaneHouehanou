@@ -1,15 +1,15 @@
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
-import Benefits2 from "./page/Benefits2";
-import Benifits1 from "./page/Benifits1";
-import CallToAction from "./page/CallToAction";
-import HeroSection from "./page/HeroSection";
-import HowItAction1 from "./page/HowItAction1";
-import HowItAction2 from "./page/HowItAction2";
-import Pricing from "./page/Pricing";
-import Stories1 from "./page/Stories1";
-import Stories2 from "./page/Stories2";
-import Testimonials from "./page/Testimonials";
+import Benefits2 from "./Components/Benefits2";
+import Benifits1 from "./Components/Benifits1";
+import CallToAction from "./Components/CallToAction";
+import HeroSection from "./Components/HeroSection";
+import HowItAction1 from "./Components/HowItAction1";
+import HowItAction2 from "./Components/HowItAction2";
+import Pricing from "./Components/Pricing";
+import Stories1 from "./Components/Stories1";
+import Stories2 from "./Components/Stories2";
+import Testimonials from "./Components/Testimonials";
 
 const App = () => {
   return (

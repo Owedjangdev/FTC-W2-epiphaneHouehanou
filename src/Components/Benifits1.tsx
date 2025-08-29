@@ -2,7 +2,7 @@ import imgl1 from "../assets/Image/Invoice1.png";
 import imgl2 from "../assets/Image/Invoice2.png";
 import imgl3 from "../assets/Image/Invoice3.png";
 import badgeImg from "../assets/Image/Verif.png"; 
-import FeatureCard from "../Components/Benefits1card";
+import FeatureCard from "../Components/ui/Benefits1card";
 
 const Benefits = () => {
   const data = [

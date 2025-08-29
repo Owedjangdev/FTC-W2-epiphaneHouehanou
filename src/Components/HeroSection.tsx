@@ -1,4 +1,4 @@
-import ButtonAction from "../Components/Button";
+import ButtonAction from "../Components/ui/Button";
 import heroImage from '../assets/Image/Dashboard.png';
 
 const Hero = () => {
