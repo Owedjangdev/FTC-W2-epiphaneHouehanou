@@ -1,4 +1,4 @@
-import howItWorksImage from "../assets/Conte.png";
+import howItWorksImage from "../assets/Image/Conte.png";
 
 const HowItWorks = () => {
   return (
@@ -27,7 +27,7 @@ const HowItWorks = () => {
               finances. Manage all expenses with Spend.In all in one place.
             </p>
             <div className="bg-[#1A202C] px-4 py-6 h-auto min-h-[288px] flex items-center justify-center">
-  <ul className="mt-8 relative before:absolute before:left-6 before:top-6 before:h-[calc(100%-48px)] before:w-0.5 before:bg-blue-500 after:absolute after:left-6 after:top-[6.3rem] after:h-[6.3rem] after:w-0.5 after:border-l-2 after:border-dashed after:border-blue-500">
+  <ul className="mt-8 relative before:absolute before:left-6 before:top-6 before:h-[calc(100%-48px)] before:w-0.5 before:bg-blue-500 after:absolute border:left-6 border:top-[6.3rem] border:h-[6.3rem]  after:border-l-2 before:border-dashed begore:border-blue-500">
     {/* Étape 1 */}
     <li className="flex items-center mb-6">
       <div className="relative z-10 w-12 h-12 flex items-center justify-center bg-purple-600 rounded-full text-lg font-bold text-gray-100">

@@ -1,7 +1,7 @@
 
-import step1Image from '../assets/How1.png'; 
-import step2Image from '../assets/How2.png';
-import step3Image from '../assets/How3.png';
+import step1Image from '../assets/Image/How1.png'; 
+import step2Image from '../assets/Image/How2.png';
+import step3Image from '../assets/Image/How3.png';
 import ButtonAction from "../Components/Button"
 
 const HowItWorks = () => {

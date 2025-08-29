@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ChevronDown } from "lucide-react";
-import logo from "../assets/Vector.png";
+import logo from "../assets/Image/Vector.png";
 
 const Header: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);

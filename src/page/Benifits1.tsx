@@ -1,7 +1,7 @@
-import imgl1 from "../assets/Invoice1.png"
-import imgl2 from "../assets/Invoice2.png"
-import imgl3 from "../assets/Invoice3.png"
-import imgl4 from "../assets/Verif.png"
+import imgl1 from "../assets/Image/Invoice1.png"
+import imgl2 from "../assets/Image/Invoice2.png"
+import imgl3 from "../assets/Image/Invoice3.png"
+import imgl4 from "../assets/Image/Verif.png"
 
 
 const Benifits = () => {

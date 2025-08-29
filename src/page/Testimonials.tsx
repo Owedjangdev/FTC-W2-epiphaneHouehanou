@@ -1,8 +1,8 @@
-import imgl4 from "../assets/image4.png"
-import imgl5 from "../assets/image5.png"
-import imgl6 from "../assets/image6.png"
-import imgB1 from "../assets/ButtonPrev.png"
-import imgB2 from "../assets/ButtonNext.png"
+import imgl4 from "../assets/Image/image4.png"
+import imgl5 from "../assets/Image/image5.png"
+import imgl6 from "../assets/Image/image6.png"
+import imgB1 from "../assets/Image/ButtonPrev.png"
+import imgB2 from "../assets/Image/ButtonNext.png"
 
 
 const testimonials = [

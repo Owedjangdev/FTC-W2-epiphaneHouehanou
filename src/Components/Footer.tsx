@@ -1,5 +1,5 @@
 
-import logo from "../assets/Layer1.png";
+import logo from "../assets/Image/Layer1.png";
 const Page = () => {
   return (
     <footer className="w-full bg-white   px-6 py-12">

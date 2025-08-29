@@ -1,5 +1,5 @@
-import checkIcon from "../assets/close-circle.png"
-import statsImage from "../assets/SuccessStories2.png"
+import checkIcon from "../assets/Image/close-circle.png"
+import statsImage from "../assets/Image/SuccessStories2.png"
 
 const Stories = () => {
   return (
@@ -10,22 +10,21 @@ const Stories = () => {
           
           {/* Colonne de texte et de boutons */}
           <div className="lg:w-1/2 w-full text-center lg:text-left ">
-            <span className="text-sm font-medium uppercase tracking-widest text-purple-700 ">
+            <span className="text-sm font-medium uppercase tracking-widest text-[#7C5CFC]">
               INCREASE PRODUCTIVITY
             </span>
             <h1 className="mt-1 text-4xl sm:text-5xl font-semibold leading-tight ">
               Reduce Time in Doing Manual Work <br/> Managing Expenses
             </h1>
             
-            <div className="mt-6 flex justify-center lg:justify-start">
-  <button className="relative z-10 bg-[#7C5CFC]  hover:bg-purple-700 text-white font-semibold py-3 px-6 rounded-full transition duration-300">
+           <div className="mt-6 flex justify-center lg:justify-start">
+  <button className="relative z-0 bg-[#F3F5F7] text-gray-900 font-semibold py-3 px-6 rounded-full transition duration-300 hover:bg-gray-200">
     With Spend.In
   </button>
-  <button className="relative -ml-5 z-0 border   bg-[#F3F5F7]   text-center border-600 text-[#7C5CFC] py-3 px-6 rounded-full transition duration-300">
+  <button className="relative -ml-5 z-10 border border-[#7C5CFC] bg-[#7C5CFC] text-center text-white py-3 px-6 rounded-full transition duration-300 hover:bg-purple-700">
     Without Spend.In
   </button>
-</div>
-            
+</div> 
             <div className="mt-8 flex flex-col space-y-4 text-left">
               {/* Point 1 */}
               <div className="flex items-start gap-3">

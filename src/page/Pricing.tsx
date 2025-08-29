@@ -1,8 +1,8 @@
-import Arrow from "../assets/Arrow.png";
-import cercle from "../assets/cercle.png";
-import lovely from "../assets/lovely.png";
-import crown from "../assets/crown.png";
-import share from "../assets/share.png";
+import Arrow from "../assets/Image/Arrow.png";
+import cercle from "../assets/Image/cercle.png";
+import lovely from "../assets/Image/lovely.png";
+import crown from "../assets/Image/crown.png";
+import share from "../assets/Image/share.png";
 
 const PricingSection = () => {
   return (
@@ -31,7 +31,7 @@ const PricingSection = () => {
 
           <div className="absolute right-1/2 transform translate-x-24 -bottom-20">
             <img src={Arrow} alt="Arrow" className="w-24 h-auto" />
-            <button className="bg-purple-100 items-center m  px-2 py-2 rounded-full text-sm font-medium absolute -bottom-1">
+            <button className="bg-purple-100 items-center absolute    px-2 py-2 rounded-full text-sm font-medium  -bottom-1">
               Save 65%
             </button>
           </div>

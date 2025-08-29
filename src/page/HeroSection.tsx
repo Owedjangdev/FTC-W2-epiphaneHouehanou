@@ -1,5 +1,5 @@
 import ButtonAction from "../Components/Button"
-import heroImage from '../assets/Dashboard.png';
+import heroImage from '../assets/Image/Dashboard.png';
 
 const Hero = () => {
   return (

@@ -1,4 +1,4 @@
-import logo from "../assets/Content.png";
+import logo from "../assets/Image/Content.png";
 
 const BusinessExpensesSection = () => {
   return (

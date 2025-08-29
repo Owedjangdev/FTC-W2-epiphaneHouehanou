@@ -1,7 +1,7 @@
-import invoiceIcon from '../assets/icon1.png'; 
-import historyIcon from '../assets/icon2.png';
-import cardsIcon from '../assets/icon3.png';
-import mainImage from '../assets/mainI.png';
+import invoiceIcon from '../assets/Image/icon1.png'; 
+import historyIcon from '../assets/Image/icon2.png';
+import cardsIcon from '../assets/Image/icon3.png';
+import mainImage from '../assets/Image/mainI.png';
 
 const Benefits = () => {
   return (
