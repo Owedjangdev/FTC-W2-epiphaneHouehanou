@@ -1,4 +1,4 @@
-import imgl4 from "../assets/image5.png"
+import imgl4 from "../assets/image4.png"
 import imgl5 from "../assets/image5.png"
 import imgl6 from "../assets/image6.png"
 import imgB1 from "../assets/ButtonPrev.png"
