@@ -1,6 +1,6 @@
 import logo from "../assets/Image/Content.png";
 
-const BusinessExpensesSection = () => {
+const CallToAction= () => {
   return (
     <div className="w-full bg-slate-800 text-white">
       <div className="max-w-7xl mx-auto px-6 py-16 lg:px-20">
@@ -30,7 +30,7 @@ const BusinessExpensesSection = () => {
             <img 
               src={logo} 
               alt="logo" 
-              className="w-full max-w-[966px] h-auto md:h-[450px] object-cover md:rounded-[13.31px]"
+              className="w-full max-w-[708px] h-auto  object-cover md:rounded-[13.31px]"
             />
           </div>
         </div>
@@ -39,4 +39,4 @@ const BusinessExpensesSection = () => {
   );
 };
 
-export default BusinessExpensesSection;
+export default CallToAction;
