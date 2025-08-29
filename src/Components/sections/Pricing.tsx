@@ -1,9 +1,9 @@
-import Arrow from "@/assets/Image/Arrow.png";
-import cercle from "@/assets/Image/cercle.png";
-import lovely from "@/assets/Image/lovely.png";
-import crown from "@/assets/Image/crown.png";
-import share from "@/assets/Image/share.png";
-import PricingCard from "../Components/ui/PricingCard";
+import Arrow from "../../assets/Image/Arrow.png";
+import cercle from "../../assets/Image/cercle.png";
+import lovely from "../../assets/Image/lovely.png";
+import crown from "../../assets/Image/crown.png";
+import share from "../../assets/Image/share.png";
+import PricingCard from "../ui/PricingCard";
 
 const PricingSection = () => {
   const plans = [

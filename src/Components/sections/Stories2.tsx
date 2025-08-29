@@ -1,5 +1,5 @@
-import checkIcon from "../assets/Image/close-circle.png"
-import statsImage from "../assets/Image/SuccessStories2.png"
+import checkIcon from "../../assets/Image/close-circle.png"
+import statsImage from "../../assets/Image/SuccessStories2.png"
 
 const Stories = () => {
   return (

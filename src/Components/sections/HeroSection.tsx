@@ -1,6 +1,6 @@
-import ButtonAction from "../Components/ui/Button";
-import heroImage from './assets/Image/Dashboard.png';
-import Circle from '../assets/Image/circle.png';
+import ButtonAction from "../ui/Button";
+import heroImage from '../../assets/Image/Dashboard.png';
+import Circle from '../../assets/Image/circle.png';
 
 const Hero = () => {
   return (
